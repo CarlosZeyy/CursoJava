@@ -1,0 +1,12 @@
+operações que começam com numero inteiro e depois o resultado precisa ser em numero flutuante, usar double na frente
+ex:
+
+int a, b;
+double resultado;
+
+a = 5;
+b = 2;
+
+resultado = a / b; => resultado vai ser 2.0 pois 5 e 2 são inteiros, e por isso ele faz a conta somente com inteiro.
+
+resultado = (double) a / b; = resultado vai ser 2,5 pois a var resultado entendeu que deve entregar um valor flutuante. <- Casting

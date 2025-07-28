@@ -1,0 +1,18 @@
+Numeros inteiros
+byte  = 8 bits -> Valores de -128 a 127 | Valor padrao 0
+short = 16 bits -> Valores de -32768 a 32767 | Valor padrao 0
+int = 32 bits -> Valores de -21475483648 a 21475483647 (2.1Bi) | Valor padrao 0
+long = 64 bits -> -9223372036854770000 a 9223372036854770000  | Valor padrao 0L
+
+Numeros flutuantes - floats
+
+float = 32 bits -> Valores 1,4024E-37 a 3,4028E+28 | Valor padrao 0.0f
+double = 64 bits -> Valores 4,94E-307 a 1,79E+308 | Valor padrao 0.0
+
+Um caractere unicode
+
+char = 16 bits -> `\u0000` a '\uFFFF' | Valor padrao '\u0000'
+
+booleanos
+
+boolean = 1 bit -> {true, false} | Valor padrao false
