@@ -1,15 +1,17 @@
+package application;
+
 import java.util.Scanner;
 import java.util.Locale;
-import entities.Triangle;
+import entities.Triangle1;
 
 
-public class Program {
+public class Program1 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Triangle x = new Triangle();
-        Triangle y = new Triangle();
+        Triangle1 x = new Triangle1();
+        Triangle1 y = new Triangle1();
 
         System.out.println("Enter the measure of triangle X: ");
         x.a = sc.nextDouble();
