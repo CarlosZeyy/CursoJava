@@ -1,6 +1,7 @@
 # 🚀 Meus Estudos de Java e POO
 
 > Repositório dedicado a registrar meu progresso, projetos e anotações do curso **"Java COMPLETO: Programação Orientada a Objetos +Projetos"** da Udemy.
+> > #### Sugestão: Use a extensão "Better Comments" no VSCode, IntelliJ, qualquer outra IDE para facilitar a visualização dos comentários feitos nos arquivos.
 
 ## 🎯 Sobre o Projeto
 
