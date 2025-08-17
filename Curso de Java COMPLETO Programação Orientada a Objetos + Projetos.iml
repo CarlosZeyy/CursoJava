@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Seção 8 - Introdução a POO/65. Classe para o triângulo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seção 8 - Introdução a POO/66. Criando um método de reaproveitamento e delegação/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seção 8 - Introdução a POO/ 70. Exercícios de fixação/Exercicio1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seção 8 - Introdução a POO/ 70. Exercícios de fixação/Exercicio2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seção 8 - Introdução a POO/ 70. Exercícios de fixação/Exercicio3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seção 8 - Introdução a POO/68. Object e toString/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seção 8 - Introdução a POO/69. Finalizando o programa/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seção 8 - Introdução a POO/71. Membros estáticos - Parte 1/Exemplo 1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seção 8 - Introdução a POO/71. Membros estáticos - Parte 1/Exemplo 2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seção 8 - Introdução a POO/72. Membros estáticos - Parte 2/Exemplo 3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seção 8 - Introdução a POO/73. Exercício de fixação/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seção 8 - Introdução a POO/67. Começando a resolver um segundo problema/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
