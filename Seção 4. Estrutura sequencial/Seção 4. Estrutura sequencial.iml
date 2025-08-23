@@ -2,7 +2,13 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/24. Saída de dados em Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/25. Processamento de dados em Java, Casting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26-27. Entrada de dados em Java - Parte 1-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28. Funções matemáticas em Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/30. Exercícios para Iniciantes" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
